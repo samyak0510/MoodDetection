@@ -171,7 +171,7 @@ datasets/
 *.db
 *.sqlite
 
-# Image/Video files
+# Image/Video files (except demo images)
 *.jpg
 *.jpeg
 *.png
@@ -184,6 +184,12 @@ datasets/
 *.wmv
 *.flv
 *.webm
+
+# Allow demo images in images folder
+!images/*.jpg
+!images/*.jpeg
+!images/*.png
+!images/*.gif
 
 # Temporary files
 *.tmp

@@ -1,5 +1,7 @@
 # MoodDetection
 
+![Demo](images/demo_realtime.jpg)
+
 A real-time facial emotion detection system using Convolutional Neural Networks (CNNs) and computer vision techniques. The system captures facial expressions from live video streams or recorded files and accurately classifies emotions using deep learning models.
 
 ## Overview
